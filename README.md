@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prayush09
-- 👀 I’m interested in competitive coding
-- 🌱 I’m currently learning c++
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me - prayushgiri@gmail.com
 
