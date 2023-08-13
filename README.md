@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prayush09
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning MERN stack & AWS Cloud.
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me - prayushgiri@gmail.com
 
