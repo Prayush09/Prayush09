@@ -76,7 +76,4 @@
 
 ---
 
-### 🎨 Animated Banner:
 
-
----
