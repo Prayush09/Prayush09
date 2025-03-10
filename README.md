@@ -1,9 +1,16 @@
 # 💫 About Me:
-🎓 **Final Year B.Tech Student** | 🛠️ **Building Resunet** (A Resume Builder Project)  
-💡 **Open Source Enthusiast** | 🚀 **Exploring DevOps & Beyond**  
-🎸 **Guitar Strummer** | 💻 **Coding Marathoner** (8+ hours when inspired!)  
----
-![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
+<table>
+  <tr>
+    <td width="60%">
+      🎓 **Final Year B.Tech Student** | 🛠️ **Building Resunet** (A Resume Builder Project)  
+      💡 **Open Source Enthusiast** | 🚀 **Exploring DevOps & Beyond**  
+      🎸 **Guitar Strummer** | 💻 **Coding Marathoner** (8+ hours when inspired!)  
+    </td>
+    <td width="40%">
+      ![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
+    </td>
+  </tr>
+</table>
 
 ---
 
