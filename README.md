@@ -1,5 +1,8 @@
 # 💫 About Me:
-I'm currently working on resunet which is a resume builder.<br>I am in my final year in B.Tech and looking to collaborate on Open source projects<br>I am looking forward to learning in the devops domain currently, however open to work on different domains if required.<br>A fun fact about me is that I can code for 8+ hours non-stop if the project is interesting enough.<br>and I like to play guitar also somtimes.
+I'm a final year B.Tech student currently building Resunet—a resume builder project.
+I love collaborating on open source projects and am diving into the DevOps domain, though I'm always open to exploring new areas.
+Fun fact: I can code non-stop for 8+ hours when a project really sparks my interest.
+When I'm not coding, you can catch me strumming my guitar.
 
 
 ## 🌐 Socials:
