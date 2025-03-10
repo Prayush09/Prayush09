@@ -60,16 +60,21 @@
 ---
 
 ### ✍️ Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)  
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)  
 
 ---
 
 ### 🔝 Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=Prayush09&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)  
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Prayush09&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)  
 
 ---
 
 ### 👀 Visitor Count:
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Prayush09.Prayush09)  
+
+---
+
+### 🎨 Animated Banner:
+![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
 
 ---
