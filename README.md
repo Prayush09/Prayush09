@@ -73,5 +73,3 @@
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Prayush09.Prayush09)  
 
 ---
-
-**Proudly created with ❤️ using [GPRM](https://gprm.itsvg.in)**
