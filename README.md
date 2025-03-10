@@ -1,10 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Hello+World!+I'm+Prayush09.;I'm+a+final+year+B.Tech+student+building+Resunet.;I+love+open+source+and+exploring+DevOps+&center=true&size=22&pause=1000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hello+World!+I'm+Prayush.;I'm+a+final+year+B.Tech+student+building+Resunet.;I+love+open+source+and+exploring+DevOps+&center=true&size=22&pause=1000" alt="Typing SVG" />
 </p>
 
 # 💫 About Me
-<img align="right" src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200" />
-
 I'm a final year B.Tech student building **Resunet** — a resume builder that empowers your career journey. I thrive on open source collaboration and am diving into DevOps, while always staying curious about new tech frontiers.  
 **Fun fact:** I can code for 8+ hours straight if a project truly captivates me, and I never say no to a good guitar jam.
 
