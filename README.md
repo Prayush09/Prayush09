@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Hello+World!+I'm+Prayush.;I'm+a+final+year+B.Tech+student+building+Resunet.;I+love+open+source+and+exploring+DevOps+&center=true&size=22&pause=1000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hello+World!+I'm+Prayush.&center=true&size=22&pause=1000" alt="Typing SVG" />
 </p>
 
 # 💫 About Me
