@@ -2,15 +2,18 @@
 <table>
   <tr>
     <td width="60%">
-      🎓 **Final Year B.Tech Student** | 🛠️ **Building Resunet** (A Resume Builder Project)  
-      💡 **Open Source Enthusiast** | 🚀 **Exploring DevOps & Beyond**  
-      🎸 **Guitar Strummer** | 💻 **Coding Marathoner** (8+ hours when inspired!)  
+      <p>
+        🎓 **Final Year B.Tech Student** | 🛠️ **Building Resunet** (Resume Builder Project)<br>
+        💡 **Open Source Enthusiast** | 🚀 **Exploring DevOps & Beyond**<br>
+        🎸 **Guitar Strummer** | 💻 **Coding Marathoner** (8+ hours when inspired!)
+      </p>
     </td>
     <td width="40%">
-      ![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="100%">
     </td>
   </tr>
 </table>
+
 
 ---
 
