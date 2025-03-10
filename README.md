@@ -3,9 +3,9 @@
   <tr>
     <td width="60%">
       <p>
-        🎓 **Final Year B.Tech Student** | 🛠️ **Building Resunet** (Resume Builder Project)<br>
-        💡 **Open Source Enthusiast** | 🚀 **Exploring DevOps & Beyond**<br>
-        🎸 **Guitar Strummer** | 💻 **Coding Marathoner** (8+ hours when inspired!)
+        🎓 Final Year B.Tech Student | 🛠️ Building Resunet (Resume Builder Project)<br>
+        💡 Open Source Enthusiast | 🚀 Exploring DevOps & Beyond<br>
+        🎸 Guitar Strummer | 💻 Coding Marathoner (8+ hours when inspired!)
       </p>
     </td>
     <td width="40%">
